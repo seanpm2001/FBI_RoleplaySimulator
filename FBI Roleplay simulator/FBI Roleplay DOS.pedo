@@ -1,0 +1,3 @@
+in1 = int(input("FBI OPEN UP! "))
+if in1 == 1:
+	print ("Ded?")
